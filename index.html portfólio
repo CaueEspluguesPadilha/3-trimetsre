@@ -1,0 +1,16 @@
+!DOCTYPE html>
+<html lang="pt-br">
+,<head>
+    <meta charset="UTF-8">
+    <meta name="vieport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <p></p>
+        <h1></h1>
+        <p>Sou o Caue,Aluno do colégio arlinda,veja meus projetos abaixo.
+        </p>
+    </header>
+</body>
+</html>
